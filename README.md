@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**SayyadAdeel-a/SayyadAdeel-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sayyad Adeel**, a junior full-stack developer based in Pakistan.
 
-Here are some ideas to get you started:
+I build and ship web apps — if an idea pops into my head, I'll probably have a working version by the end of the week.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main stack is **Next.js, React, TypeScript, Tailwind CSS, and Supabase** — with AI as my co-pilot to move fast and ship real products.
+
+I've built and launched multiple projects including a **property maintenance app for landlords**, an **AI coding agent for Android**, and a **multi-tool creator platform** — all independently.
+
+---
+
+**Fun Facts:**
+
+- I build full apps faster solo than most teams do in sprints
+- I've never shipped a project without AI in the workflow
+- I'm more excited by launching than by planning
+- Hobbies: building things, exploring product ideas, and learning in public
