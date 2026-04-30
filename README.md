@@ -10,22 +10,24 @@ No degree. No team. No budget. Just shipping.
 </div>
 
 ---
-
-## 🔨 Current Projects
+## 📦 Current Projects
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Koda](https://github.com/SayyadAdeel-a/koda)** | AI coding agent for Android — Monaco editor, ANSI terminal, file explorer & live AI tool execution | Flutter · Gemini API · Android |
-| **[Tenreq](https://github.com/SayyadAdeel-a/tenreq)** | Property maintenance tracker for small landlords — audit trails, contractor assignment, tenant portal | React · Supabase · Vite |
+| **[Architect](https://github.com/SayyadAdeel-a/architect)** | High-precision real-time CAD & PDF coordination platform for architects — technical industrial design | Next.js 15 · Supabase · Tailwind |
+| **[TriageAI](https://github.com/SayyadAdeel-a/triage-ai)** | AI-powered email triage — auto-sorts your inbox, free tier + $25/mo pro with unlimited syncs | Next.js · Supabase · Tailwind |
+
+## 📦 Shipped projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Tenreq](https://github.com/SayyadAdeel-a/tenreq)** | Property maintenance tracker for small landlords — audit trails, contractor assignment, tenant portal | React · Vite · Supabase · Tailwind |
+| **[NudgeCRM](https://github.com/SayyadAdeel-a/nudge-crm)** | Minimalist command center for solo freelancers — high-performance client management, no bloat | Next.js 15 · Firebase · Tailwind |
+| **[VidToolbox](https://github.com/SayyadAdeel-a/vidtoolbox)** | 68+ browser-based creator tools — AdSense monetized with a built-in blog for SEO | React · Vite · Supabase · Tailwind |
 | **[Everywheres](https://everywheres.app)** | Worldwide local services directory — built & shipped as a micro-product | React · Supabase · Vercel |
-
-## 📦 Shipped
-
-| Project | What it is |
-|---|---|
-| **DataWall** | Android firewall app — per-app data budgets, VpnService, usage tracking |
-| **VidToolbox** | 68+ browser-based creator tools, AdSense monetized |
-| **PhotoPortal** | Professional photo delivery platform for photographers |
+| **[Portfolio](https://github.com/SayyadAdeel-a/portfolio)** | Personal portfolio — showcasing projects, stack & build-in-public story | Next.js · Tailwind |
+| **[DataWall](https://github.com/SayyadAdeel-a/datawall)** | Android firewall app — per-app data budgets, usage tracking & clean light-theme UI | Kotlin · VpnService · MVVM · Hilt |
+| **[PhotoPortal](https://github.com/SayyadAdeel-a/photoportal)** | Professional photo delivery platform for photographers — glassmorphism UI, client galleries | Next.js 14 · TypeScript · Supabase |
 
 ---
 
