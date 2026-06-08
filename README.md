@@ -2,32 +2,38 @@
 
 # Sayyad Adeel
 
-**Self-taught full-stack & mobile dev from Swat, Pakistan.**
+**Self-taught solo builder from Swat, Pakistan.**
 No degree. No team. No budget. Just shipping.
 
-📍 Swat, Pakistan &nbsp;·&nbsp; 🚀 Building in public &nbsp;·&nbsp; 📸 [@buildwithsayyad](https://instagram.com/buildwithsayyad)
+📍 Pakistan &nbsp;·&nbsp; 🚀 Building in public &nbsp;·&nbsp; 📸 [@buildwithsayyad](https://instagram.com/buildwithsayyad) &nbsp;·&nbsp; 🌐 [adeelsayyad.tech](https://adeelsayyad.tech)
 
 </div>
 
 ---
-## 📦 Current Projects
 
-| Project | What it is | Stack |
+## 🧠 Who I Am
+
+I learn by shipping. Every project is a real thing solving a real problem — not a tutorial clone, not a portfolio piece, not a hackathon demo that never deploys.
+
+I use AI coding tools (Cursor, OpenCode) as leverage to build things solo that would normally take a 3-person team. The output is what matters.
+
+---
+
+## 🔨 Currently Building
+
+| Project | What it does | Stack |
 |---|---|---|
-| **[Architect]([https://github.com/SayyadAdeel-a/architect](https://github.com/SayyadAdeel-a/architects_app))** | High-precision real-time CAD & PDF coordination platform for architects — technical industrial design | Next.js 15 · Supabase · Tailwind |
-| **[TriageAI]([https://github.com/SayyadAdeel-a/triage-ai](https://github.com/SayyadAdeel-a/TriageAI))** | AI-powered email triage — auto-sorts your inbox, free tier + $25/mo pro with unlimited syncs | Next.js · Supabase · Tailwind |
+| **[TriageAI](https://github.com/SayyadAdeel-a/TriageAI)** | AI Gmail triage for solo founders — auto-classifies support emails, drafts replies from your knowledge base. Stays inside Gmail. | Next.js · Supabase · Groq · Tailwind |
+| **[Recapely](https://github.com/SayyadAdeel-a)** | Turns raw project notes into polished client status emails using AI + stored client preferences | Next.js · Supabase · OpenAI · Tailwind |
 
-## 📦 Shipped projects
+---
 
-| Project | What it is | Stack |
+## 📦 Shipped
+
+| Project | What it does | Stack |
 |---|---|---|
-| **[Tenreq]([https://github.com/SayyadAdeel-a/tenreq](https://github.com/SayyadAdeel-a/landlord))** | Property maintenance tracker for small landlords — audit trails, contractor assignment, tenant portal | React · Vite · Supabase · Tailwind |
-| **[NudgeCRM]([https://github.com/SayyadAdeel-a/nudge-crm](https://github.com/SayyadAdeel-a/Freelancers_CRM))** | Minimalist command center for solo freelancers — high-performance client management, no bloat | Next.js 15 · Firebase · Tailwind |
-| **[VidToolbox]([https://github.com/SayyadAdeel-a/vidtoolbox](https://github.com/SayyadAdeel-a/Creator-Tools))** | 68+ browser-based creator tools — AdSense monetized with a built-in blog for SEO | React · Vite · Supabase · Tailwind |
-| **[Everywheres]([https://everywheres.app](https://github.com/SayyadAdeel-a/local-bussines-directory))** | Worldwide local services directory — built & shipped as a micro-product | React · Supabase · Vercel |
-| **[Portfolio]([https://github.com/SayyadAdeel-a/portfolio](https://github.com/SayyadAdeel-a/SayyadAdeel-a))** | Personal portfolio — showcasing projects, stack & build-in-public story | Next.js · Tailwind |
-| **[DataWall]([https://github.com/SayyadAdeel-a/datawall](https://github.com/SayyadAdeel-a/OffSwitch))** | Android firewall app — per-app data budgets, usage tracking & clean light-theme UI | Kotlin · VpnService · MVVM · Hilt |
-| **[PhotoPortal]([https://github.com/SayyadAdeel-a/photoportal](https://github.com/SayyadAdeel-a/Photography-app))** | Professional photo delivery platform for photographers — glassmorphism UI, client galleries | Next.js 14 · TypeScript · Supabase |
+| **[NudgeCRM](https://github.com/SayyadAdeel-a/Freelancers_CRM)** | Minimalist CRM for solo freelancers — client management, zero bloat | Next.js 15 · Firebase · Tailwind |
+| **[VidToolbox](https://github.com/SayyadAdeel-a/Creator-Tools)** | 68+ browser-based tools for content creators — AdSense monetized | React · Vite · Supabase · Tailwind |
 
 ---
 
@@ -36,14 +42,15 @@ No degree. No team. No budget. Just shipping.
 ```
 Frontend    →  React · Next.js · TypeScript · Tailwind CSS
 Mobile      →  Flutter · Kotlin · Android SDK
-Backend     →  Node.js · Supabase · Edge Functions
+Backend     →  Node.js · Supabase · Edge Functions · Firebase
+AI/LLMs     →  Groq · Gemini · OpenAI API
 Deploy      →  Vercel · GitHub Actions
-AI Tools    →  Cursor · OpenCode · Gemini API
+AI Tools    →  Cursor · OpenCode
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -57,11 +64,12 @@ AI Tools    →  Cursor · OpenCode · Gemini API
 
 ## 📬 Find me
 
-- Instagram: [@buildwithsayyad](https://instagram.com/buildwithsayyad)
-- GitHub: [SayyadAdeel-a](https://github.com/SayyadAdeel-a)
+- 🌐 Portfolio: [adeelsayyad.tech](https://adeelsayyad.tech)
+- 📸 Instagram: [@buildwithsayyad](https://instagram.com/buildwithsayyad)
+- 💼 LinkedIn: [Sayyad Adeel Ahmad](https://linkedin.com/in/sayyadadeel)
 
 ---
 
 <div align="center">
-<sub>I build things that work. Fast.</sub>
+<sub>I build things that work. Fast. Solo. From Pakistan.</sub>
 </div>
