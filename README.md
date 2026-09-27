@@ -1,75 +1,71 @@
 <div align="center">
 
-# Sayyad Adeel
+# Sayyad Adeel 🕷️
 
-**Self-taught solo builder from Swat, Pakistan.**
-No degree. No team. No budget. Just shipping.
+### *Jack of all trades, master of none — still learning the art of everything.*
 
-📍 Pakistan &nbsp;·&nbsp; 🚀 Building in public &nbsp;·&nbsp; 📸 [@buildwithsayyad](https://instagram.com/buildwithsayyad) &nbsp;·&nbsp; 🌐 [adeelsayyad.tech](https://adeelsayyad.tech)
+Curious mind · AI-assisted builder · Student from Pakistan
 
-</div>
-
----
-
-## 🧠 Who I Am
-
-I learn by shipping. Every project is a real thing solving a real problem — not a tutorial clone, not a portfolio piece, not a hackathon demo that never deploys.
-
-I use AI coding tools (Cursor, OpenCode) as leverage to build things solo that would normally take a 3-person team. The output is what matters.
-
----
-
-## 🔨 Currently Building
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[TriageAI](https://github.com/SayyadAdeel-a/TriageAI)** | AI Gmail triage for solo founders — auto-classifies support emails, drafts replies from your knowledge base. Stays inside Gmail. | Next.js · Supabase · Groq · Tailwind |
-| **[Recapely](https://github.com/SayyadAdeel-a)** | Turns raw project notes into polished client status emails using AI + stored client preferences | Next.js · Supabase · OpenAI · Tailwind |
-
----
-
-## 📦 Shipped
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[NudgeCRM](https://github.com/SayyadAdeel-a/Freelancers_CRM)** | Minimalist CRM for solo freelancers — client management, zero bloat | Next.js 15 · Firebase · Tailwind |
-| **[VidToolbox](https://github.com/SayyadAdeel-a/Creator-Tools)** | 68+ browser-based tools for content creators — AdSense monetized | React · Vite · Supabase · Tailwind |
-
----
-
-## 🛠 Stack
-
-```
-Frontend    →  React · Next.js · TypeScript · Tailwind CSS
-Mobile      →  Flutter · Kotlin · Android SDK
-Backend     →  Node.js · Supabase · Edge Functions · Firebase
-AI/LLMs     →  Groq · Gemini · OpenAI API
-Deploy      →  Vercel · GitHub Actions
-AI Tools    →  Cursor · OpenCode
-```
-
----
-
-## 📊 Stats
-
-<div align="center">
-
-![Sayyad's GitHub stats](https://github-readme-stats.vercel.app/api?username=SayyadAdeel-a&show_icons=true&hide_border=true&theme=default&hide=stars)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SayyadAdeel-a&layout=compact&hide_border=true&theme=default)
+[Portfolio](https://www.adeelsayyad.tech/) • [LinkedIn](https://www.linkedin.com/in/adeelsayyad/)
 
 </div>
 
 ---
 
-## 📬 Find me
+## Hey 👋
 
-- 🌐 Portfolio: [adeelsayyad.tech](https://adeelsayyad.tech)
-- 📸 Instagram: [@buildwithsayyad](https://instagram.com/buildwithsayyad)
-- 💼 LinkedIn: [Sayyad Adeel Ahmad](https://linkedin.com/in/sayyadadeel)
+I like figuring out how things work and then trying to build something from the idea.
+
+Most of what I do starts with curiosity, a bunch of AI tools, and a lot of experimentation.
+
+I’m not a traditional programmer.
+
+I use AI-assisted workflows to explore ideas, build prototypes, test concepts, and turn rough thoughts into something real.
+
+Sometimes it works.  
+Sometimes I spend hours fixing what I just broke. :)
+
+---
+
+## What I'm into
+
+- AI-assisted building
+- Prototyping ideas
+- Creative experimentation
+- Prompting and directing AI tools
+- Learning by building
+
+---
+
+## Currently exploring
+
+- AI agents
+- Product ideas
+- Creative workflows
+- Better ways to turn ideas into working things
+
+---
+
+## A little about me
+
+- From Pakistan 🇵🇰
+- Still a student
+- Curious about a lot of things
+- Usually working on one idea while thinking about three more
+
+---
+
+## Find me
+
+- 🌐 Portfolio: [adeelsayyad.tech](https://www.adeelsayyad.tech/)
+- 💼 LinkedIn: [YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/adeelsayyad/)
 
 ---
 
 <div align="center">
-<sub>I build things that work. Fast. Solo. From Pakistan.</sub>
+
+### Thanks for stopping by
+
+*Still learning. Still experimenting. Still building.* 🕷️
+
 </div>
