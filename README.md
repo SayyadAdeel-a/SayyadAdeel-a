@@ -58,7 +58,7 @@ Sometimes I spend hours fixing what I just broke. :)
 ## Find me
 
 - 🌐 Portfolio: [adeelsayyad.tech](https://www.adeelsayyad.tech/)
-- 💼 LinkedIn: [YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/adeelsayyad/)
+- 💼 LinkedIn: [adeelsayyad](https://www.linkedin.com/in/adeelsayyad/)
 
 ---
 
